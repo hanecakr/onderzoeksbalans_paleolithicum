@@ -1,2 +1,2 @@
-# onderzonderzoeksbalans_paleolithicum
+# onderzoeksbalans_paleolithicum
 onderzoeksbalans archeologie: paleolithicum
