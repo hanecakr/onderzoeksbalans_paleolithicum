@@ -37,10 +37,10 @@ book:
   cover-image: media/cover.jpg
   bread-crumbs: false
   reader-mode: true
-  repo-url: https://github.com/ErfgoedPublicaties/onderzoeksbalans_paleolithicum/
+  repo-url: https://github.com/hanecakr/onderzoeksbalans_paleolithicum
   repo-actions: [edit, issue]
-  repo-branch: master
-  site-url: https://publicaties.onroerenderfgoed.be/onderzoeksbalans_paleolithicum/
+  repo-branch: main
+  site-url: https://hanecakr.github.io/onderzoeksbalans_paleolithicum/
   chapters:
     - index.qmd
     - OBPALEO_00_wijzigingen.qmd
