@@ -12,8 +12,26 @@ book:
   subtitle: "Onderzoeksrapport Onroerend Erfgoed"
   author:
     - name: Caroline Ryssaert
-      orcid: 0000-0002-7719-8305
-      affiliations: "RAAP"
+      affiliations: "RAAP België"
+    - name: Ine Depaepe
+      affiliations: "agentschap Onroerend Erfgoed"
+    - name: Yves Perdaen
+    - name: Marc De Bie
+      orcid: 0000-0003-1133-8552
+      affiliations: "agentschap Onroerend Erfgoed"
+    - name: Philip Van Peer
+      orcid: 0000-0002-7745-9528
+    - name: Philippe Crombé
+      orcid: 0000-0002-4198-8057
+      affiliations: Universiteit Gent, vakgroep archeologie
+    - name: Marijn Van Gils
+      orcid: 0000-0002-7516-1189
+      affiliations: "agentschap Onroerend Erfgoed"
+    - name: Ann Van Baelen
+      orcid: 0000-0002-8595-9485
+      affiliations: KU Leuven, Wetenschappelijke Collecties en Erfgoed
+    - name: David De Wilde
+      affiliation: "Vrije Universiteit Brussel"
   publisher: "agentschap Onroerend Erfgoed"
   date: today
   cover-image: media/cover.jpg
@@ -25,7 +43,7 @@ book:
   site-url: https://publicaties.onroerenderfgoed.be/onderzoeksbalans_paleolithicum/
   chapters:
     - index.qmd
-    - 00_OBPALEO_wijzigingen.qmd
+    - OBPALEO_00_wijzigingen.qmd
     - part: "Onderzoeksbalans"
       chapters:
       - OBPALEO_01.qmd
