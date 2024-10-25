@@ -1,0 +1,164 @@
+# BALANS IN DE TIJD 
+
+## INLEIDING 
+
+In dit hoofdstuk bespreken we de belangrijkste vindplaatsen in Vlaanderen binnen een diachrononisch perspectief en behandelen we de voornaamste dateringsproblematieken.
+
+De kwantitatieve analyse gebeurde, naar analogie van de eerste versie van de onderzoeksbalans, op basis van de **Centrale Archeologische Inventaris** van Vlaanderen (CAI). Vooraf moeten in verband met de waarde en het gebruik van deze bron wel enkele zaken worden opgemerkt:
+
+-   Voor de periode tot 2007 zijn enkel de sites waarvan de ligging enigszins bekend is (namelijk tot op 500 m nauwkeurig) in deze analyse in aanmerking genomen. Er is dus nog een (onbekend) aantal vindplaatsen niet opgenomen. Vindplaatsen die hierna zijn toegevoegd aan de CAI zijn bijna uitsluitend sites waarvan de ligging enigszins bekend is, waardoor van een vrij volledige dataset kan uitgegaan worden.
+
+-   De eenheid 'site' - basis voor het unieke ID in de CAI en hier gebruikt als teller - is natuurlijk een problematisch begrip. In sommige gevallen zijn verschillende *loci* van één sitecomplex als aparte sites geteld (bijv. in Meer-Meirberg en Lommel-Maatheide), in andere gevallen als één site (bijv. in Rekem). Het viel buiten de opzet van deze balans om hier zelf éénvormigheid in aan te brengen. Wel is er bij het maken van kaarten (bij de ruimtelijke balans; zie verder) voor geopteerd om enkel de gemeenten te plotten waar vondsten zijn gerapporteerd, zonder enige kwantitatieve aanduiding. Verder gaan we ervan uit dat deze schommelingen in alle periodes voorkomen en dus worden uitgevlakt in de vergelijkingen.
+
+-   De belangrijkste problematiek bij het gebruik van deze bron is de vraag naar de representativiteit. Bevat de CAI daadwerkelijk een inventaris van alle paleolithische vindplaatsen die in Vlaanderen bekend zijn of tenminste gepubliceerd of gemeld? We moeten er sowieso van uitgaan dat bepaalde collecties nog niet ontsloten zullen zijn, maar van de openbaar gemaakte zaken zouden we moeten kunnen aannemen dat ze hierin geregistreerd zijn. Ook deze screening gaat de opzet van de onderzoeksbalans te boven - het impliceert immers een aparte evaluatie van de CAI op zich - maar op basis van een kleine toets moesten we toch vaststellen dat er pertinente lacunes zijn. In de gebruikte referenties valt bijvoorbeeld op dat de Repertoria of de vroegere kroniek in Helinium een relatief beperkt aantal keren als bron zijn vermeld. Mogelijk zijn vele meldingen hierin niet voldoende precies gelokaliseerd en daardoor niet in onze lijst aanwezig, maar talrijke vondstmeldingen - in de Repertoria bijvoorbeeld - geven wel vaak de primaire literatuurbron aan waarin mogelijk betere lokalisatie te vinden is. De vraag is dus of alle lokale tijdschriften bijvoorbeeld ook volledig zijn geëxcerpeerd.
+
+-   De CAI bevat, zoals ook in de versie van 2008 het geval was[^163], ook in zijn huidige vorm immers zeker niet het volledige bestand aan gekende gegevens over paleolithische (en andere) sites en vondsten. Daarbij werden de verslagen en rapporten van preventief onderzoek in het kader van het vroegere archeologiedecreet nagenoeg volledig verwerkt, maar is er een zekere achterstand in verwerking van de nota's en archeologienota's van de laatste jaren. De eindverslagen van archeologische opgravingen werden wel geheel (tot eind 2020) in de CAI verwerkt. De verwerking van verschenen literatuur (tijdschriften, boeken, etc.) sinds 2008 gebeurde, door tijdsgebrek, eerder *ad hoc*, zo bijvoorbeeld de artikels verschenen in de *Notae Praehistoricae*[^164]. Ook voor de verwerking van amateurarcheologische collecties kon in de laatste 10 jaar slechts zeer summier in het kader van de CAI aandacht geschonken worden.
+
+
+Zolang deze vragen niet beantwoord zijn en lacunes in de verwerking van de gegevens aangevuld worden, is het evident dat we deze inventaris in kwantitatief onderzoek met enige omzichtigheid moeten gebruiken. Omdat het in zekere zin wel deel uitmaakt van een balans, hebben we toch in grote lijnen de inhoud van de CAI voor het paleolithicum onderzocht.
+
+De kwalitatieve analyse gebeurde grotendeels op basis van een literatuurstudie, met een focus op de vindplaatsen die de laatste 40 jaar aan het licht gekomen zijn. Hierbij dient opgemerkt te worden dat de resolutie waarmee vindplaatsen chronologisch geplaatst worden sterk verschilt. Voor vindplaatsen vanaf het laatglaciaal ligt deze resolutie een stuk hoger en is gekozen om zoveel mogelijk de datering in BP (ofwel *before present*) aan te geven. Terwijl dit voor de oudere vindplaatsen vaak niet mogelijk is en hier is gekozen om de vindplaatsen (indien mogelijk) te plaatsen binnen het algemeen chronostratigrafisch kader met een opeenvolging van glaciale en interglaciale fases. Hierbij wordt enerzijds gereferreerd naar de chronostratigrafie op basis van de continentale afzettingen (traditioneel vernoemd naar specifieke rivieren, zoals de Eem en Weichsel) als naar de fases op basis van mariene isotopen (MIS, ofwel Marine Isotope Stage). De correlatie tussen beiden en chronologische begrenzing is echter niet altijd evident en wordt regelmatig herzien.
+
+## OVERZICHT VAN DE GEKENDE SITES PER PERIODE 
+
+Het aantal CAI-registraties van sites met een steentijdcomponent is sinds de update van de onderzoeksbalans ruim verdubbeld (van 4824 in 2008 naar 10.469 records in 2020 om precies te zijn). Van de ruim 10.000 locaties is maar 4,3 % (N=449) in het paleolithicum gesitueerd (Figuur 26). Dit is beduidend minder dan in het mesolithicum (24,1 %) en zeker het neolithicum (27,8 %). De meerderheid van de registraties (43,8 %) heeft dus betrekking op lithisch materiaal waarvan de steentijdperiode niet gedetermineerd kon worden.
+
+Binnen het paleolithicum (Figuur 27) domineren in deze inventaris de finaalpaleolithische sites (ca.
+
+40%) boven de middenpaleolithische sites (ca. 24%).
+
+:::{.figure}
+![](./media/image27.png)
+
+Aantal registraties in de CAI van steentijdsites per periode.
+:::
+
+
+:::{.figure}
+![](./media/image28.png)
+
+Aantal registraties in de CAI van sites met een paleolithische component, per subfase.
+:::
+
+
+Zeer opmerkelijk is dat er niet minder dan 67 sites (ca. 15 %) in de CAI als laatpaleolithicum geregistreerd staan. Na de hogere beschouwingen roept dit aantal natuurlijk wel vragen op. Nadere inspectie van het bronnenmateriaal waarop deze toewijzingen in de CAI zijn gebaseerd, leert dan ook dat, op de bekende sites na (Kanne dus), de laatpaleolithische interpretaties met de grootste omzichtigheid moeten worden gehanteerd. Sommige opnames lijken gewoon een vergissing (slecht overgenomen uit de literatuur), andere zijn gebaseerd op oude publicaties, die zoals hoger al gesteld de gewoonte hadden finaalpaleolithische vondsten in het laatpaleolithicum te situeren, nog andere zijn gebaseerd op meldingen door amateurarcheologen of afkomstig uit prospectiethesissen, waar de kwaliteit van de interpretaties al eens kan variëren. Specifiek voor de periode na 2007 Het spreekt voor zich dat deze registraties in de eerste plaats een kritische evaluatie behoeven.
+
+Hetzelfde geldt voor de 17 meldingen van vroegpaleolithicum. Vaak gaat het hier om middenpaleolithische sites die (ook) als vroegpaleolithicum geregistreerd werden. Hoe dan ook is geen enkele van deze sites, op Kesselt na, op één of andere wijze gedateerd. Tot slot zijn er nog 79 locaties (ca. 17,5 %) gemeld waarvan de paleolithische fase niet nader kon worden gespecificeerd.
+
+## VROEG- EN MIDDENPALEOLITHISCHE VINDPLAATSEN EN HUN DATERINGSPROBLEMATIEK 
+
+Vindplaatsen uit het vroeg- en middenpaleolithicum blijken vaak moeilijk te dateren. Dit heeft voor een groot deel te maken met de context waarin ze aangetroffen werden. Het grootste deel van de gekende vindplaatsen uit deze periode betreft oppervlaktevindplaatsen. Ze bevinden zich in een geërodeerde context die geen datering op basis van chronostratigrafie, associatie met fauna of absolute dateringen toelaat. De toewijzing gebeurt in dat geval op basis van (een combinatie van) typologische, technologische of fysische kenmerken van het lithisch materiaal. Deze problematiek speelt bijvoorbeeld voor de talrijke vindplaatsen die doorheen de jaren zijn aangetroffen op een aantal getuigenheuvels in het Heuvelland en de Vlaamse Ardennen, zoals op de Kemmelberg[^166], Muziekberg[^167] en Kluisberg[^168].
+
+Een tweede belangrijke verklaring heeft te maken met het ontbreken van een georganiseerde onderzoekscampagne tijdens het inzamelen van de vondsten. In de 19^de^ en 20^ste^ eeuw zijn een aantal gestratifieerde vindplaatsen aan het licht gekomen in groeves of bij ontginningswerken. Hierbij werden vaak in weinig gunstige omstandigheden vondsten en faunaresten ingezameld, maar ontbreekt grotendeels informatie met betrekking tot de stratigrafische context. Dat was bijvoorbeeld het geval voor de vindplaatsen Rotselaar -- Toren ter Heide[^169] of de groeve Maes te Uitbergen[^170]. Deze problematiek beperkt zich niet tot vindplaatsen binnen Vlaanderen. Uit een recente analyse van middenpaleolithische vindplaatsen in België blijkt dat van de 442 vindplaatsen die men analyseerde, slechts 28 (ofwel 6%) zich kenmerkt door een voldoende betrouwbare chronostratigrafische context[^171]. Deze vindplaatsen en hun chronostratigrafische toewijzingen worden weergegeven in Figuur 28.
+
+Van uitzonderlijk belang voor Vlaanderen zijn de diverse vindplaatsen die ontdekt en systematisch onderzocht werden in en nabij leemgroeves te Kesselt[^172] en Veldwezelt[^173], aangezien het om één van de weinige regio's gaat waarin doorheen de jaren met een interdisciplinaire aanpak meerdere afgedekte, goed bewaarde vindplaatsen zijn onderzocht. Te Kesselt-Op de Schans gaat het oudste niveau, dat weliswaar herwerkt materiaal bevat, vermoedelijk minstens terug tot de aanvang van MIS 10 (ca. 390.000 BP).[^174] Dit is meteen ook de enige gedateerde vroegpaleolithische vindplaats in Vlaanderen. Daarnaast zijn op een beperkt aantal locaties zogenaamde vroegpaleolithische vondsten aangetroffen aan het oppervlak, maar blijkt de datering ervan over het algemeen weinig onderbouwd.
+
+Uit het vroege midden-paleolithicum, een term doorgaans gehanteerd voor de periode van MIS 8 tot en met MIS 6 (300.000 -- 130.000 BP), zijn een aantal vindplaatsen gekend. Te Kesselt -- Nelissen werden zes niveaus met artefacten aangetroffen, waarvan de twee oudste niveaus dateren respectievelijk in MIS 7 en MIS 6 [^175]^.^ Aan de overzijde van het Albertkanaal zijn in Kesselt -- Op de Schans twee goed bewaarde niveaus met lithisch materiaal gedateerd in de Saale (MIS 7 en de overgang van MIS 9 naar 8)[^176]. Onmiddellijk ten noorden hiervan werden in Veldwezelt -- Hezerwater binnen de loess-sequentie 24 archeologische niveaus aangetroffen, waarvan een aantal clusters in de late Saale (MIS 6) gedateerd zijn[^177].
+
+Uit het interglaciale Eem (MIS 5e, 128.000-116.000 BP) zijn voorlopig weinig data gekend. Oorspronkelijk werd voor één van de archeologische niveaus te Veldwezelt-Hezerwater een mogelijke datering in deze periode voorgesteld^190^, deze datering werd echter ondertussen weerlegd.[^178] . Naar aanleiding van de herevaluatie van de site te Rotselaar -- Toren ter Heide werd voor het ensemble van de verse artefacten onlangs eveneens een datering op de overgang van het Eem naar de laatste ijstijd voorgesteld. [^179] Uit deze periode komen vindplaatsen in noordwest-Europa slechts sporadisch voor. Tot eind vorige eeuw werd vaak verondersteld dat neanderthalers zich niet konden aanpassen aan deze warme periode, waarin de gemiddelde temperatuur tot 2 graden hoger lag in vergelijking met
+
+het huidige interglaciaal. De laatste decennia komen echter steeds meer vindplaatsen uit het Eem aan het licht (bijv. de Franse site Caours in de Sommevallei[^180] en het Duitse Neumark-Nord[^181]). De recentste inzichten wijzen eerder op tafonomische processen evenals een gebrek aan kennis omtrent het interglaciaal paleolandschap als verklaring voor het lage aantal Eem-vindplaatsen[^182]. Dat is ook voor Vlaanderen het geval. Toch zijn er -- naast Rotselaar -- nog indicaties die wijzen op een belangrijk onderzoekspotentieel voor deze periode. Binnen de Vlaamse vallei zijn er op basis van de quartairgeologische kartering op diverse locaties Eem-afzettingen gekend. Deze worden af en toe bij een archeologisch onderzoek herkend, zoals te Aalter-Langevoorde[^183] en te Maldegem[^184]. Ook te VerAssebroek is een middenpaleolithische bifaciale schrabber mogelijk geassocieerd met waddenafzettingen uit het Eem[^185]. Echter, een systematische prospectie of evaluatie gericht op vindplaatsen uit deze periode werd nog niet uitgevoerd.
+
+De meeste vindplaatsen lijken vooral in het laatste glaciaal voor te komen (Weichsel, vanaf MIS 5d ofwel 112.000 BP). Te Veldwezelt-Hezerwater is een niveau in MIS 3 gedateerd[^186]. Te Kesselt -- Op de Schans zijn twee niveaus met in situ materiaal gedateerd in het vroegglaciaal (MIS 5d?)[^187]. Voor de site te Zemst -- Bos van Aa wordt het faunamateriaal op basis van een ESR datering op tandemail van mammoet en de geologische context in het vroegglaciaal geplaatst[^188]. Op basis van de nieuwe observaties wordt het gerolde lithische materiaal uit de collectie van de site te Rotselaar -- Toren ter Heide geassocieerd met een grindterras dat in het midden pleniglaciaal wordt geplaatst (MIS 3)[^189]. Ook de site Oosthoven -- Heieinde, waar het materiaal geassocieerd is met een afgedekt *desert pavement*, wordt grofweg in het Weichsel gedateerd[^190]. Ook Vollezele - Congoberg[^191] wordt in het Weichsel gedateerd.
+
+Ook voor een aantal van de vindplaatsen die gekend zijn op basis van beperkte observaties of oppervlaktekartering uit de vorige eeuw wordt soms een algemene datering in het Weichsel voorgesteld. Hierbij dient echter opgemerkt te worden dat dergelijke vindplaatsen vaak zijn gedateerd op basis van 'typische' mousteriaantechnologie en --werktuigen. Onderzoek heeft ondertussen niet alleen aangetoond dat die mousteriaankenmerken een ruimere chronologische spreiding hebben, maar eveneens dat de lithische technologie van neanderthalers een grotere complexiteit vertoont die vaak niet eenduidig met een chronologische periode kan vereenzelvigd worden. Bijvoorbeeld, het inzicht dat doorheen het middenpaleolithicum op diverse wijzen klingen werden geproduceerd is pas sinds de jaren '90 van vorige eeuw gegroeid[^192].
+
+Voor het Waalse landsgedeelte zien we dat vondsten uit het vroeg- en middenpleistoceen er in beperkte mate voorkomen. Vindplaatsen zijn er eveneens vooral met het laatste glaciaal geassocieerd. Ook hier geldt dat voor het onbreken van vindplaatsen in interglaciale fases mogelijk een tafonomische verklaring aan de orde is. Wat het laatpleistoceen betreft, blijken middenpaleolithische vindplaatsen voornamelijk voor te komen in de vroege Weichsel. Vindplaatsen uit het midden pleniglaciaal komen
+
+er voornamelijk voor in grotsites. Tijdens de tweede helft van het vroeg pleniglaciaal[^193] (MIS 4) lijkt bewoning, net als in Vlaanderen, afwezig te zijn. Ook de Noord-Franse gegevens uit het late middenpaleolithicum (MIS 5-3) wijzen erop dat in de allerkoudste fases van de ijstijden menselijke bewoning in het middenpaleolithicum afwezig lijkt[^194].We kunnen ons afvragen in welke mate dit patroon ook naar het vroege middenpaleolithicum (MIS 8 -- 6) kan worden uitgebreid. Aangezien de gegevens voor deze periode beperkter zijn, is het voorlopig moeilijk hierover met zekerheid uitspraken te doen.
+
+In tegenstelling tot Vlaanderen is in het zuiden van het land de jongste fase van het middenpaleolithicum wel vertegenwoordigd, o.m. met vindplaatsen die dateren omstreeks 38.000 -- 35.000 BP (Scladina en Spy -- Betche au Rotches)[^195].
+
+:::{.figure}
+![](./media/image29.jpg)
+
+Chronostratigrafisch overzicht van de belangrijkste Belgische vroeg- en middenpaleolithische vindplaatsen, opgesteld door Di Modica & Pirson 2016 (p. 8 -- fig. 5)
+:::
+
+
+## LAATPALEOLITHISCHE VINDPLAATSEN EN HUN DATERINGSPROBLEMATIEK 
+
+Vindplaatsen uit het **laatpaleolithicum** (ca. 35.000 -- 14.000 BP) komen slechts met mondjesmaat voor in Vlaanderen. Het aurignaciaan (35.000 -- 29.000 BP) lijkt voorlopig enkel in de grotsites langs de Maas voor te komen, terwijl in Vlaanderen overtuigende vondslocaties uitblijven. Binnen de gemengde collectie van de Kemmelberg[^196] wordt voor bepaalde stukken een mogelijke datering in deze periode toegedicht. Sporadisch wordt op basis van bepaalde typologische affiniteiten een stuk als aurignaciaan bestempeld. Ook voor het gravettiaan (30.000 -- 23.000 BP) geldt dezelfde problematiek. Nochtans zijn openluchtvindplaatsen wel in de aangrenzende streken geattesteerd, zoals te Maisières-Canal in Henegouwen[^197]. Mogelijk is te Schulensbroek een gravettiaansite geïdentificeerd, maar ook daar blijven de indicaties beperkt[^198].
+
+Met betrekking tot het magdaleniaan kan enkel de site te Kanne met voldoende zekerheid tot deze periode toegewezen worden. De site zou samen met Orp wel eens de vroegst bekende magdaleniaanoccupatie in de Benelux kunnen vertegenwoordigen[^199]. Hiervoor zijn niet alleen technotypologische argumenten aangehaald (door vergelijking met Duitse en Franse sites), maar ook de aanwezigheid van zware cryoturbatie en bijkomende loess-sedimentatie op de site na de menselijke aanwezigheid, een teken dat de ijstijd nog niet afgelopen was. Magdaleniaan vindplaatsen zijn eveneens bekend uit Nederland[^200] en Zuid-België. Ze bevinden zich aan de noordwestelijke rand van het verspreidingsgebied en worden over het algemeen rond 13.000 BP of iets vroeger gedateerd[^201]. De magdaleniaangroepen zijn met andere woorden de eerste kolonisators van onze streken na het glaciaal maximum[^202].
+
+Hoewel dat door verschillende auteurs[^203] is geopperd, zijn er tot nu toe in Vlaanderen weinig indicaties van de aanwezigheid van creswelliaan[^204] zoals dat in het Verenigd Koninkrijk is gedefinieerd. Terwijl dit wel het geval is voor Nederland en Duitsland.
+
+## FINAALPALEOLITHISCHE VINDPLAATSEN EN HUN DATERINGSPROBLEMATIEK 
+
+In het laatglaciaal is er wel duidelijke aanwezigheid van het finaalpaleolithicum, en dan vooral van de federmessergroepen die chronologisch vanaf de Oude Dryas (13.900 BP -- 14.000 BP), maar voornamelijk met het Allerød interstadiaal (12.850 BP -- 13.900 BP) worden geassocieerd. Absolute dateringen die onproblematisch geassocieerd zijn met laatglaciale archeologische contexten zijn in Vlaanderen echter nog steeds bijzonder schaars. Naast de datering van hars op een federmesser*s*pits in Rekem, waarvan de archeologische associatie niet ter discussie staat, zijn er enkele dateringen uitgevoerd op verbrand bot in Weelde-Eindegoorheide. De resultaten (ca. 11.900-10.800 BP) beslaan zowat de volledige Allerød^218^. De associatie met het lithisch materiaal staat er echter niet eenduidig vast. De site van Tongeren-Plinius werd op basis van de pijlbewapening typologisch als vrij oud
+
+gedateerd. Het hoge percentage aan steilgeretoucheerde klingen zou wijzen op overeenkomsten met het magdaleniaan. Een ^14^C-datering op verbrand bot plaatst de vindplaats niet aan het begin van de Allerød, maar op het eind op de overgang naar Jonge Dryas[^205]. De site Verrebroek -- Dok 2 is op basis van paleo-ecologie en ^14^C-dateringen gesitueerd op de overgang van de Oude Dryas naar de Allerød[^206]. ^14^C-dateringen op houtskool zijn in deze periode meestal problematisch gebleken en leveren vaak een te jonge datering op, met uitzondering van Verrebroek -- Dok 2[^207]. Het heeft er ondermeer toe geleid dat de federmessergroepen foutief ook in het preboreaal en later werden gedateerd[^208]. Daarnaast is ook de houtskool van natuurlijke branden in de (top van de) Usselobodem moeilijk te onderscheiden van de 'culturele' houtskool. Thermoluminescentie datering van verbrande stenen kon meestal wel een laatglaciale ouderdom bevestigen (bijv. in Rekem[^209] en in Meer IV[^210]), maar blijft door de foutenmarge vrij breed. Recent onderzoek heeft uitgewezen dat ook het dateren van wit verbrand bot niet zonder risico's is, vooral op niet of heel laat afgedekte sites. De meeste dateringen blijken eveneens te jong uit te vallen als gevolg van infiltratie van jongere koolstof. Betere resultaten worden verkregen op sites die snel zijn afgedekt, zoals Verrebroek-Dok 2, waar de dateringen evenwel iets te oud te zijn omwille van de opname van koolstof van het brandhout[^211].
+
+Vindplaatsen die op basis van hun associatie met een Usselobodem of organische paleobodem gedateerd zijn bevinden zich o.m. in het Landschap Liereman (Arendonk en Oud-Turnhout)[^212] en Lommel -- Maatheide[^213]. Deze Usselobodem wordt op het einde van de Allerød geplaatst en kenmerkt zich door de aanwezigheid van houtskoolfragmenten die wellicht het resultaat zijn van grootschalige bosbranden en dateren tussen 13.200-13.100 en 12.700-12.600 cal a BP. Deze bosbranden waren wellicht het gevolg van de koudere en drogere klimatologische condities die er toen optraden[^214]. Vaker nog worden vindplaatsen gedateerd op basis van het voorkomen van specifieke typotechnologische kenmerken, soms in combinatie van het voorkomen van bepaalde grondstoffen, bijv. zogenaamde Obourg-vuursteen, alhoewel deze grondstof ook geassocieerd is met andere culturen.
+
+Ook de chronologische positie van de Ahrensburgsite van Zonhoven-Molenheide blijft onzeker. De ^14^Cdatering op houtskool komt in de buurt van de ouderdom van Usselobodem-houtskool en de vraag naar een associatie met het archeologische materiaal dient ook hier gesteld te worden. Daarnaast zijn in Vlaanderen nog een aantal vindplaatsen gekend waarvan de culturele toewijzing niet vaststaat. Bij de aanvang van de Jonge Dryas of mogelijk zelfs nog iets vroeger ontstaan in Europa een aantal culturen, kortweg Jonge Dryas culturen, die zich kenmerken door een verdere microlithisatie van de pijlbewapening (o.m. bromme, laboriaan of belloisiaan) en waarvan de invloed zich tot in Vlaanderen laat gelden. Ruien-Rosalinde is hiervan het mooiste voorbeeld. Het betreft een kortstondig bewoonde en snel afgedekte vindplaats waar o.m. een haardstructuur werd aangetroffen die gedateerd is op de overgang van de Allerød naar Jonge Dryas[^215]. De datering van de vindplaats Oudenaarde -- Markt sluit hierbij aan. Het lithisch materiaal bevindt er zich in de top van een zandige duin die zich heeft gevormd op het einde van het Pleniglaciaal. De artefacten zelf zijn geassocieerd met een eolische Jonge Dryas afgezettingen[^216]. Deze datering van het materiaal wordt verder ondersteund door de aanwezigheid van een *soil-cap*, een zandige korst, op een belangrijk deel van de artefacten wat wijst op intense vorstdooi activiteiten. Eenzelfde *soil-cap* is ook aangetroffen op het materiaal uit Gent-Tweekerkenstraat en lijkt ook deze vindplaats in de Jonge Dryas te plaatsen. Deze *soil-cap* is overigens ook geattesteerd
+
+te Lommel-Maatheide en Landschap De Liereman, waar het materiaal was geassocieerd met de Usselobodem.
+
+## BALANS VAN HET ONDERZOEK PER CHRONOLOGISCHE FASE 
+
+Voor een overzicht van het terreinwerk dat per paleolithische fase plaatsvond, verwijzen we naar hogere besprekingen van de historiek van het paleolithisch onderzoek in Vlaanderen en van de evolutie van het terreinwerk in de laatste veertig jaar. De bespreking van publicaties per chronologische fase is eveneens hoger terug te vinden in het overzicht van gepubliceerd onderzoek.
+
+Hieruit kunnen we een opmerkelijke tendens waarnemen. Het onderzoek naar paleolithicum in Vlaanderen blijkt vooral gedreven door twee groepen van uitvoerders. Enerzijds spelen de amateurarcheologen een belangrijke rol. Ze hebben voornamelijk tal van oppervlaktevindplaatsen aan het licht gebracht, maar speelden -- vooral in de 20^ste^ eeuw - eveneens een belangrijke rol bij het in kaart brengen en verder opvolgen van toevalsvondsten bij bijv. bagger- en ontginningswerken. Anderzijds zien we dat er vooral vanuit academische hoek (tot enkele decennia terug vaak in samenwerking met de overheid) de belangrijkste kenniswinst voor het paleolithicum in Vlaanderen is gegenereerd. Voor het middenpaleolithicum zijn de onderzoeken die vanuit de KULeuven zijn geïnitieerd naar de verschillende vindplaatsen te Kesselt en Veldwezelt en Oosthoven-Heiende tekenend, evenals het prospectie-onderzoek in het oosten van de Vlaamse Vallei.
+
+Voor het finaalpaleolithicum werd intensief onderzoek uitgevoerd in de Kempen door het toenmalige VIOE en de KULeuven, werden vindplaatsen binnen hun landschappelijke context onderzocht in de Schelde-vallei en Moervaart door de UGent en in het kader van het Sigma-plan een intensieve prospectie uitgevoerd door het toenmalige VIOE.
+
+Voor het laatpaleolithicum ontbreekt vooralsnog systematisch onderzoek.
+
+Ondanks de gestage toename aan Malta-archeologie en toenemende rol van commerciële archeologische uitvoerders, blijken ze een beperkte rol te spelen in de ontdekking of het onderzoek van paleolithische vindplaatsen. Indien vindplaatsen aan het licht komen, gaat het vaak om toevalsvondsten of losse vondsten bij onderzoek naar recentere periodes. Eerder uitzonderlijk wordt de onderzoeksstrategie dan aangepast en de context waarin de vondsten worden aangetroffen verder onderzocht. Het resultaat is dus vooral een toename aan stippen op de kaart, wat als een bevestiging voor het rijke paleolithische potentieel in gans Vlaanderen kan gezien worden. Maar het staat in schril contrast met archeologisch onderzoek naar post-steentijd periodes waar de Malta-archeologie net wel heeft geleid tot gericht onderzoek en een sterkte toename aan vindplaatsen. In het geval dat de onderzoeksstrategie wel wordt bijgesteld, merken we op dat het enkel om finaalpaleolithische vindplaatsen gaat. Die ontdekkingen hebben evenwel tot een belangrijke kenniswinst geleid en de dataset in sterke mate verrijkt. Voor een aantal vindplaatsen, zoals Ruien-Rosalinde en OudenaardeMarkt, is het terug de tussenkomst van een academische partner (in dit geval UGent) die meer doorgedreven onderzoek heeft toegelaten.
+
+[^163]: Cf. Verbrugge & Lombaert 2008.
+[^164]: Deze werden in begin 2021 wel systematisch verwerkt en in de CAI toegevoegd.
+[^165]: Pers. communicatie E. Meylemans 2021.
+[^166]: Crombé & Van der Haegen 1994b.
+[^167]: Crombé 1989.
+[^168]: Crombé 1994.
+[^169]: Van Peer 1986; Van Peer *et al.* 2017.
+[^170]: Crombé & Van der Haegen 1994b, 126-129.
+[^171]: Di Modica *et al.* 2016; Di Modica 2011a.
+[^172]: Lauwers 1985a; Lauwers & Meijs 1985; Vroomans *et al.* 2006; Van Baelen *et al.* 2007, 2008; Van Baelen 2014 & 2016.
+[^173]: Bringmans 2006.
+[^174]: Meijs *et al.* 2012.
+[^175]: Van Baelen & Ryssaert 2011; Van Baelen *et al.* 2011.
+[^176]: Van Baelen *et al.* 2007, 19-26; Van Baelen *et al.* 2008.
+[^177]: Bringmans 2006. ^190^ Bringmans 2006.
+[^178]: Meijs 2011.
+[^179]: Van Peer *et al.* 2017.
+[^180]: Antoine *et al.* 2006.
+[^181]: Smith *et al.* 2014.
+[^182]: Defleur & Desclaux 2019 ; Nicholson 2017.
+[^183]: Agentschap Onroerend Erfgoed 2021: Langevoorde \[online\] https://id.erfgoed.net/waarnemingen/976268 (Geraadpleegd op 27 mei 2021).
+[^184]: Gierts & Cornelis 2014.
+[^185]: Ryssaert *et al.* 2010.
+[^186]: Bringmans 2006.
+[^187]: Van Baelen *et al.* 2011.
+[^188]: Germonpré *et al.* 1993.
+[^189]: Van Peer *et al.* 2017.
+[^190]: Ruebens & Van Peer 2011; Ruebens *et al.* 2014.
+[^191]: Vynckier *et al.* 1988.
+[^192]: Alhoewel reeds beschreven voor een aantal noord-Franse vindplaatsen in de jaren 80, was het vooral dankzij het syntheseonderzoek van S. Révillion (1995) op een aantal middenpaleolithische vindplaatsen in noordwest-Frankrijk, België (le Rissori, Rocourt) en Duitsland dat de wijde verspreiding en complexiteit van klingentechnologie in deze periode gemeengoed werden.
+[^193]: De term pleniglaciaal heeft betrekking op de koudste periode uit de laatste ijstijd, het Weichsel.
+[^194]: Goval 2012.
+[^195]: Di Modica 2011a; Di Modica *et al.* 2016.
+[^196]: Ulrix-Closset *et al.* 1981.
+[^197]: Haesaerts & de Heinzelin 1979.
+[^198]: Van Peer 2020.
+[^199]: De Bie & Vermeersch 1998, 29-43.
+[^200]: Rensink 2010; Rensink 2016.
+[^201]: Deeben & Rensink 2005.
+[^202]: Het glaciaal maximum is de periode waarin op het einde van de laatste ijstijd het contentaal ijs zijn grootste totale massa bereikte en wordt grosso modo tussen 23.000 en 19.000 BP gesitueerd.
+[^203]: Otte *et al.* 1984, 105-106.
+[^204]: Het creswelliaan is een finaalpaleolithische cultuur met kerngebied in Engeland en een verspreiding tot in Nederland en mogelijk Duitsland. Het lithisch materiaal kenmerkt zich o.m. door het voorkomen van cheddar- en creswellspitsen. Chronologisch situeert de cultuur zich grosso modo tussen 13.000-11.800 BP. ^218^ Verbeek 1999.
+[^205]: Bink 2007.
+[^206]: Crombé 2005; Van Strydonck & Crombé 2005.
+[^207]: Van Strydonck & Crombé 2005, 180-212.
+[^208]: Van Noten 1978.
+[^209]: De Bie & Caspar 2000, 42-43.
+[^210]: Charles 1994.
+[^211]: Crombé *et al.* 2021.
+[^212]: Van Gils *et al.* 2009, Vanmontfort *et al.* 2010.
+[^213]: De Bie & Van Gils, 2006.
+[^214]: Crombé 2018; Dewerte & Crombé 2018.
+[^215]: Crombé *et al.* 2014.
+[^216]: Crombé *et al.* 2018.

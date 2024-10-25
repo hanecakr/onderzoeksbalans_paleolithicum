@@ -1,0 +1,214 @@
+---
+title: "Word to rmd to qmd"
+format: html
+---
+
+# 1. pdf to Word
+
+- Open the .pdf in Word.
+- This conversion preserves footnotes.
+- Remove cover, colofon, content, ...
+- Save to .docx
+
+# 2. Convert Word to RMarkdown
+
+- Run the following script:
+
+```{r}
+# options(repos = c(
+#     inbo = 'https://inbo.r-universe.dev',
+#     CRAN = 'https://cloud.r-project.org'))
+# pak::pak("inbo/protocolhelper")
+library(protocolhelper)
+library(here)
+
+convert_docx_to_rmd(
+  from = here("OAOE191-001.docx"),
+  to = "./OB_paleo.Rmd",
+  dir_media = "./",
+  wrap = NA,
+  overwrite = TRUE,
+  verbose = FALSE,
+  wd = getwd()
+)
+```
+
+- Illustrations are in folder 'media'.
+- Footnotes are at the very end of the .Rmd file
+- Check for inconsistencies!
+
+# 3. Split Rmd to chapters
+
+```{r}
+# Read the content of the .Rmd file
+rmd_content <- readLines("OB_paleo.Rmd", warn = FALSE)
+
+# Use regular expressions to find lines that start with a single '# ' (indicating chapter headers)
+chapter_lines <- grep("^# ", rmd_content)
+
+# Add the end of the file as the last index to help split the content properly
+chapter_lines <- c(chapter_lines, length(rmd_content) + 1)
+
+# Loop through the chapters and save each as a separate .Rmd file
+for (i in 1:(length(chapter_lines) - 1)) {
+  
+  # Extract the chapter title (remove leading '# ' and replace spaces with underscores for      filenames)
+  chapter_title <- paste0("OBPALEO_0",i)
+  chapter_filename <- paste0(chapter_title, ".qmd")
+  
+  # Extract the content for the current chapter
+  chapter_content <- rmd_content[chapter_lines[i]:(chapter_lines[i+1] - 1)]
+  
+  # Write the chapter content to a new file
+  writeLines(chapter_content, con = chapter_filename)
+  
+  # Print a message to confirm each file creation
+  cat(chapter_title, "has been saved as", chapter_filename, "\n")
+}
+```
+
+
+# 4. Add footnotes by chapter
+
+```{r}
+# Create string with chapter files
+qmd_files <- list.files(pattern = ".qmd")
+qmd_files <- qmd_files[-c(1, 2, 14)]
+qmd_files
+# Use regular expressions to extract footnote definitions
+footnotes <- grep("^\\[\\^\\d+\\]:", rmd_content, value = TRUE)
+
+for(i in qmd_files) {
+     # Read the content of the .Rmd file
+     text <- readLines(i)
+     
+     # Collapse content into a single string (since readLines returns a vector)
+     text_string <- paste(text, collapse = " ")
+     
+     # Use regular expressions to extract footnotes
+     chapter_footnotes <- gregexpr("\\[\\^\\d+\\]", text_string)
+     
+     # Extract matches from the text
+     matches <- regmatches(text_string, chapter_footnotes)[[1]]
+     
+     # Print the extracted footnotes
+     # print(matches)
+     
+     # Extract the footnote numbers from the matches, e.g., extract "1" from "[^1]"
+     footnote_nums <- gsub("\\[\\^(\\d+)\\]", "\\1", matches)
+     
+     # Create a pattern to match the actual footnote definitions (e.g., "[^1]:")
+     footnote_pattern <- paste0("^\\[\\^(", paste(footnote_nums, collapse = "|"), ")\\]:")
+     
+     # footnotes/chapter
+     footnote_matches <- grep(footnote_pattern, footnotes, value = TRUE)
+     
+     writeLines(c(text, footnote_matches), con = i)
+}
+```
+
+
+# 5. Convert figure links to qmd
+
+```{r}
+# Function to convert Rmd to Quarto format
+convert_figs_to_qmd <- function(input_file, output_file) {
+  # Read the content of the qmd file
+  lines <- readLines(input_file)
+  
+  # Create a vector to store the new content
+  new_content <- c()
+
+  # Loop through each line of the Rmd file
+  for (i in 1:length(lines)) {
+    line <- lines[i]
+    
+    # Check if the line contains a link to an image
+    if (grepl("!\\[\\]\\(.*/.*\\)", line)) {
+      # Extract the image path
+      image_path <- sub("!\\[\\]\\((.*)\\)\\{.*\\}", "\\1", line)
+      
+      # Replace with Quarto div structure for figures
+      new_content <- c(new_content, 
+                       ":::{.figure}", 
+                       sprintf("![](%s)", image_path))
+      
+      # Move to the next line to check for the figure caption (blockquote)
+      if (i + 2 <= length(lines) && grepl("^> Figuur", lines[i + 2])) {
+        caption <- sub("^> (Figuur.*)", "\\1", lines[i + 2])
+        caption <- sub("^Figuur \\d+: ", "", caption)
+        new_content <- c(new_content,
+                         "",
+                         caption)
+      }
+
+      # Close the figure div
+      new_content <- c(new_content, ":::")
+      i <- i + 2  # Skip the caption line
+      
+    } else {
+      # Otherwise, just add the line as is
+      new_content <- c(new_content, line)
+    }
+  }
+  # remove old captions
+  old_captions <- grep("^> ", new_content)
+  if (length(old_captions >0)){ new_content <- new_content[-old_captions]}
+  # Write the new content to the output .qmd file
+  writeLines(new_content, output_file)
+  cat("Conversion completed! Output saved to", output_file, "\n")
+}
+
+# Usage: replace 'input.Rmd' with your .rmd file path, and 'output.qmd' with desired .qmd file path
+
+```
+
+```{r}
+for (i in qmd_files){
+  input_file <- i
+  output_file <- i
+  convert_figs_to_qmd(input_file, output_file)
+}
+```
+
+# 6. Remove heading numbers
+
+```{r}
+# Function to remove numbering from headings in a .qmd file
+remove_heading_numbers <- function(input_file, output_file) {
+  
+  # Read the file
+  lines <- readLines(input_file)
+  
+  # Regular expression to match headings with numbers
+  heading_pattern <- "^(#+)\\s+[0-9]+(\\.[0-9]+)*\\s+"
+  
+  # Process each line
+  new_lines <- sapply(lines, function(line) {
+    
+    # Check if the line is a numbered heading
+    if (grepl(heading_pattern, line)) {
+      # Remove the numbers but keep the heading level and title
+      sub(heading_pattern, "\\1 ", line)
+    } else {
+      # Leave other lines unchanged
+      line
+    }
+  })
+  
+  # Write the updated lines back to the file
+  writeLines(new_lines, output_file)
+  
+  cat("Heading numbers have been removed in", input_file, "\n")
+}
+
+```
+
+```{r}
+for (i in qmd_files){
+  input_file <- i
+  output_file <- i
+  remove_heading_numbers(input_file, output_file)
+}
+```
+

@@ -1,0 +1,82 @@
+project:
+  type: book
+  output-dir: docs
+
+execute:
+  echo: false
+
+lang: nl
+
+book:
+  title: Onderzoeksbalans archeologie - paleolithicum
+  subtitle: "Onderzoeksrapport Onroerend Erfgoed"
+  author:
+    - name: Caroline Ryssaert
+      orcid: 0000-0002-7719-8305
+      affiliations: "RAAP"
+  publisher: "agentschap Onroerend Erfgoed"
+  date: today
+  cover-image: media/cover.jpg
+  bread-crumbs: false
+  reader-mode: true
+  repo-url: https://github.com/ErfgoedPublicaties/onderzoeksbalans_paleolithicum/
+  repo-actions: [edit, issue]
+  repo-branch: master
+  site-url: https://publicaties.onroerenderfgoed.be/onderzoeksbalans_paleolithicum/
+  chapters:
+    - index.qmd
+    - 00_OBPALEO_wijzigingen.qmd
+    - part: "Onderzoeksbalans"
+      chapters:
+      - OBPALEO_01.qmd
+      - OBPALEO_02.qmd
+      - OBPALEO_03.qmd
+      - OBPALEO_04.qmd
+      - OBPALEO_05.qmd
+      - OBPALEO_06.qmd
+      - OBPALEO_07.qmd
+      - OBPALEO_08.qmd
+      - OBPALEO_09.qmd
+      - OBPALEO_10.qmd
+    - part: "Bronnen"
+      chapters:
+      - OBPALEO_bibliografie.qmd
+
+# bibliography: PALEO_biblio.bib
+# csl: elsevier-harvard_nl.csl
+
+engine: knitr
+
+title-block-banner: "#00509d"
+title-block-banner-color: white
+
+crossref:
+  fig-title: Figuur
+  fig-prefix: fig.
+  tbl-title: Tabel
+  tbl-prefix: tabel
+
+language:
+  toc-title-document: "Op deze pagina"
+  search-no-results-text: "Geen resultaat"
+  repo-action-links-edit: "Bewerk deze pagina"
+  title-block-author-plural: "auteurs"
+  title-block-published: "laatste update"
+  title-block-affiliation-plural: "affiliatie"
+  
+# filters:
+#    - lightbox
+# lightbox: auto
+
+format:
+  html:
+    theme:
+      light:
+        - cosmo
+        - mycss.css
+      dark:
+        - slate
+        - mycss.css
+    cover-image: media/cover.jpg
+    toc-depth: 4
+    link-external-newwindow: true
