@@ -18,7 +18,7 @@ Andere online publicaties van het agentschap Onroerend Erfgoed vind je hier: **<
 Gelieve te citeren als: <br/>
 
 Caroline Ryssaert, Ine Depaepe, Yves Perdaen, Marc De Bie, Philip Van
-Peer, Philippe Crombé, Marijn Van Gils, Ann Van Baelen, David De Wilde (2021). Onderzoeksbalans archeologie in Vlaanderen, versie 2, 01/06/2021: paleolithicum, Onderzoeksrapporten agentschap Onroerend Erfgoed nr. 191, Brussel. <link> (geraadpleegd op `r Sys.Date() |> format("%d-%m-%Y")`)
+Peer, Philippe Crombé, Marijn Van Gils, Ann Van Baelen, David De Wilde (2021). Onderzoeksbalans archeologie in Vlaanderen, versie 2, 01/06/2021: paleolithicum, Onderzoeksrapporten agentschap Onroerend Erfgoed nr. 191, Brussel.  (<https://hanecakr.github.io/onderzoeksbalans_paleolithicum/>, geraadpleegd op `r Sys.Date() |> format("%d-%m-%Y")`)
 
 Oorspronkelijke gepubliceerd als: <br/>
 
