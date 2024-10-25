@@ -27,14 +27,14 @@ Binnen het paleolithicum (Figuur 27) domineren in deze inventaris de finaalpaleo
 
 40%) boven de middenpaleolithische sites (ca. 24%).
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image27.png)
 
 Aantal registraties in de CAI van steentijdsites per periode.
 :::
 
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image28.png)
 
 Aantal registraties in de CAI van sites met een paleolithische component, per subfase.
@@ -69,7 +69,7 @@ er voornamelijk voor in grotsites. Tijdens de tweede helft van het vroeg plenigl
 
 In tegenstelling tot Vlaanderen is in het zuiden van het land de jongste fase van het middenpaleolithicum wel vertegenwoordigd, o.m. met vindplaatsen die dateren omstreeks 38.000 -- 35.000 BP (Scladina en Spy -- Betche au Rotches)[^195].
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image29.jpg)
 
 Chronostratigrafisch overzicht van de belangrijkste Belgische vroeg- en middenpaleolithische vindplaatsen, opgesteld door Di Modica & Pirson 2016 (p. 8 -- fig. 5)

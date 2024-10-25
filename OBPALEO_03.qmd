@@ -36,14 +36,14 @@ Hoewel publicaties over steentijdvondsten in Vlaanderen al starten in de 19^de^ 
 
 Hoewel het paleolithicum deze tendensen in het aantal publicaties in grote lijnen volgt, lijkt de groei hier iets vroeger te zijn gekomen (einde jaren 1970) en is de output voor deze periode sinds de jaren 1980 wat stabieler, zij het in lichtjes dalende lijn (Figuur 14). Deze relatieve stabiliteit kon hoger ook al worden opgemerkt in het aantal terreincampagnes sinds de jaren 1980 (Figuur 8). Sinds de opkomst van de archeologische privésector stijgt het aantal wetenschappelijke publicaties (in de vorm van rapporten) opnieuw. Vooral tussen 2010 en 2014 wordt een piek bereikt, die in het volgende jaarkwintet opnieuw afneemt. Hoe deze trend zal evolueren tussen 2020 en 2024 is onduidelijk.
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image13.png)
 
 Aantal wetenschappelijke publicaties van steentijdonderzoek in Vlaanderen, per steentijdperiode en jaarkwintet.
 :::
 
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image14.png)
 
 Aantal wetenschappelijke publicaties van (deels) paleolithisch onderzoek in Vlaanderen, per subperiode en jaarkwintet.
@@ -56,14 +56,14 @@ Boeken (ca. 2,5 %) zijn duidelijk in de minderheid. Bovendien moet hierbij worde
 
 Molenheide[^148] en het overzichtswerk over het middenpaleolithicum in Noordwestelijk België boek[^149].
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image15.png)
 
 Aantal wetenschappelijke publicaties van steentijdonderzoek in Vlaanderen, per steentijdperiode en per type publicatie.
 :::
 
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image17.png)
 
 Aantal wetenschappelijke publicaties van (deels) paleolithisch onderzoek in Vlaanderen, per type publicatie.
@@ -80,29 +80,31 @@ Dit komt het best tot uiting in het aantal gepubliceerde pagina's origineel onde
 
 heen. Dan zijn er immers opvallende pieken eind jaren 1970 (publicatie van Meer[^151]) en rond de eeuwwisseling (publicatie van Rekem[^152]). Vooraan in de jaren 1990 is er ook nog een monografie over het middenpaleolithicum[^153], die zoals gezegd meer in boekdelen is opgebouwd. Ook doctoraten kunnen natuurlijk een substantiële bijdrage leveren in de onderzoeksoutput, voor de laatste jaren ondermeer deze van Y. Perdaen[^154], P. Bringmans[^155] en bovengenoemde A. Van Baelen[^156].
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image18.png)
 
 Aantal wetenschappelijke publicaties van steentijdonderzoek in Vlaanderen, per type publicatie en jaarkwintet.
 :::
 
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image19.png)
 
 Aantal wetenschappelijke publicaties van paleolithisch onderzoek in Vlaanderen, per type publicatie en jaarkwintet.
 :::
 
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image20.png)
+
+Aantal wetenschappelijk gepubliceerde pagina's over paleolithisch onderzoek in Vlaanderen, per type publicatie en jaarkwintet.
 :::
 
-Figuur 19: Aantal wetenschappelijk gepubliceerde pagina's over paleolithisch onderzoek in Vlaanderen, per type publicatie en jaarkwintet.
+
 
 Dergelijke éénmalige uitgaven beïnvloeden natuurlijk ook in sterke mate het beeld van de populariteit van publicatietypes binnen de verschillende paleolithische subfases (Figuur 20). De pas genoemde thesissen en boekdelen zijn duidelijk herkenbaar in het relatief hoger aantal gepubliceerde pagina's in dit type voor het middenpaleolithicum, terwijl de boeken zoals gezegd voornamelijk het finaalpaleolithicum behandelen. Hetzelfde geldt voorlopig voor de rapporten.
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image21.png)
 
 Aantal gepubliceerde pagina's origineel wetenschappelijk onderzoek over paleolithicum in Vlaanderen, per subfase en type publicatie. Legende: VP = vroegpaleolithicum; MP = middenpaleolithicum; LP = laatpaleolithicum; FP = finaalpaleolithicum; MP/LP = combinatie.
@@ -111,7 +113,7 @@ Aantal gepubliceerde pagina's origineel wetenschappelijk onderzoek over paleolit
 
 In ieder geval blijven de tijdschriftartikels voor alle fases, en zowel in totale omvang aan pagina's als zeker in aantal publicaties (Figuur 21) het belangrijkste kanaal voor de publicatie van onderzoeksresultaten over het paleolithicum in Vlaanderen.
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image22.png)
 
 Aantal wetenschappelijke publicaties van paleolithisch onderzoek in Vlaanderen, per subfase en type publicatie. Legende:  VP = vroegpaleolithicum; MP = middenpaleolithicum; LP = laatpaleolithicum; FP = finaalpaleolithicum; MP/LP = combinatie.
@@ -120,14 +122,14 @@ Aantal wetenschappelijke publicaties van paleolithisch onderzoek in Vlaanderen, 
 
 Als maatstaf voor de (potentiële) internationale verspreiding van het gepubliceerde onderzoek werd ook naar de taal van de werken gekeken. Daaruit blijkt dat ruim de helft (56,5 %) van alle wetenschappelijke publicaties over paleolithicum in Vlaanderen in het Nederlands uitgebracht zijn, een klein kwart in het Engels (24 %), een vijfde in het Frans (18 %) en een verwaarloosbaar klein percentage in het Duits (1,5 %; Figuur 22). Ook hier geeft dezelfde oefening een heel ander beeld voor het aantal gepubliceerde bladzijden originele onderzoeksresultaten. Dan blijken bijna evenveel pagina's in het Engels (39,3 %) als in het Nederlands (39,5 %) te zijn gepubliceerd en volgt het Frans pas op de derde plaats met slechts 19,7 % (Figuur 23).
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image23.png)
 
 Aantal publicaties wetenschappelijk onderzoek over paleolithicum in Vlaanderen, per subfase en per taal waarin werd gepubliceerd.Legende: VP -- MP = vroeg- tot middenpaleolithicum; MP -- LP = midden- tot laatpaleolithicum; LP -- FP = laat- tot finaalpaleolithicum; FP -- VM = finaalpaleolithicum tot vroegmesolithicum.
 :::
 
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image24.png)
 
 Aantal gepubliceerde pagina's origineel wetenschappelijk onderzoek over paleolithicum in Vlaanderen, per subfase en per taal waarin werd gepubliceerd. Legende: VP -- MP = vroeg- tot middenpaleolithicum; MP -- LP = (overgang midden- tot) laatpaleolithicum; LP -- FP = (overgang laat- tot) finaalpaleolithicum; FP -- VM = (overgang finaalpaleolithicum tot vroegmesolithicum.
@@ -136,7 +138,7 @@ Aantal gepubliceerde pagina's origineel wetenschappelijk onderzoek over paleolit
 
 In de pioniersjaren en tot in de jaren 1970 domineerde het Frans als wetenschappelijke taal het paleolithicumonderzoek in Vlaanderen in het aantal publicaties (Figuur 24). In de tweede helft van de jaren 80 kent het aantal Franstalige publicaties een piek. Na deze piek neemt de populariteit van het Frans echter af. Het aantal onderzoeken die in het Frans verschijnen blijft de laatste decennia klein. Het Engels komt pas schuchter opzetten vanaf einde jaren 1970, maar gaat vanaf de jaren 1990 het Frans domineren. In het jaarkwintet 2015-2019 is ook een plotselinge toename in Engelstalige publicaties te zien. Het spreekt voor zich dat, om internationaal enige relevantie te hebben en de kwaliteit te blijven bewaken, ook in de toekomst Engelstalige publicaties moeten worden aangemoedigd. In Figuur 24 zien we ook het effect van de opkomst van de privésector: na een graduele opkomst van Nederlandstalige publicaties tussen 1975 en 2004, stijgt het aantal abrupt vanaf 2005 om een piek te bereiken in het jaarkwintet 2010-2014. Sinds 2015 wordt echter weer een daling in het aantal publicaties in het Nederlands genoteerd.
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image25.png)
 
 Aantal publicaties origineel wetenschappelijk onderzoek met een paleolithische component in Vlaanderen, per jaarkwintet en taal waarin werd gepubliceerd.
@@ -149,7 +151,7 @@ Een trend die zich dan weer niet vertaalt, is de abrupte stijging in het aantal 
 
 De piek in het aantal Engelstalige pagina's rond de eeuwwisseling is te verklaren door de publicatie van het boek over Rekem.
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image26.png)
 
 Aantal gepubliceerde pagina's origineel wetenschappelijk onderzoek over paleolithicum in Vlaanderen, per jaarkwintet en taal waarin werd gepubliceerd.

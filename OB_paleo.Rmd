@@ -316,6 +316,7 @@ Hoewel het paleolithicum deze tendensen in het aantal publicaties in grote lijne
 
 > Figuur 13: Aantal wetenschappelijke publicaties van steentijdonderzoek in Vlaanderen, per steentijdperiode en jaarkwintet.
 
+
 ![](./media/image14.png){width="6.298611111111111in" height="4.118611111111111in"}
 
 > Figuur 14: Aantal wetenschappelijke publicaties van (deels) paleolithisch onderzoek in Vlaanderen, per subperiode en jaarkwintet.
@@ -329,6 +330,7 @@ Molenheide[^148] en het overzichtswerk over het middenpaleolithicum in Noordwest
 ![](./media/image15.png){width="6.298611111111111in" height="4.480972222222222in"}
 
 > Figuur 15: Aantal wetenschappelijke publicaties van steentijdonderzoek in Vlaanderen, per steentijdperiode en per type publicatie.
+
 
 ![](./media/image17.png){width="6.298611111111111in" height="3.7831944444444443in"}
 
@@ -344,9 +346,11 @@ Dit komt het best tot uiting in het aantal gepubliceerde pagina's origineel onde
 
 heen. Dan zijn er immers opvallende pieken eind jaren 1970 (publicatie van Meer[^151]) en rond de eeuwwisseling (publicatie van Rekem[^152]). Vooraan in de jaren 1990 is er ook nog een monografie over het middenpaleolithicum[^153], die zoals gezegd meer in boekdelen is opgebouwd. Ook doctoraten kunnen natuurlijk een substantiële bijdrage leveren in de onderzoeksoutput, voor de laatste jaren ondermeer deze van Y. Perdaen[^154], P. Bringmans[^155] en bovengenoemde A. Van Baelen[^156].
 
+
 ![](./media/image18.png){width="6.298611111111111in" height="4.111527777777778in"}
 
 > Figuur 17: Aantal wetenschappelijke publicaties van steentijdonderzoek in Vlaanderen, per type publicatie en jaarkwintet.
+
 
 ![](./media/image19.png){width="6.298611111111111in" height="3.7977777777777777in"}
 
@@ -354,7 +358,7 @@ heen. Dan zijn er immers opvallende pieken eind jaren 1970 (publicatie van Meer[
 
 ![](./media/image20.png){width="6.298611111111111in" height="3.7781944444444444in"}
 
-Figuur 19: Aantal wetenschappelijk gepubliceerde pagina's over paleolithisch onderzoek in Vlaanderen, per type publicatie en jaarkwintet.
+> Figuur 19: Aantal wetenschappelijk gepubliceerde pagina's over paleolithisch onderzoek in Vlaanderen, per type publicatie en jaarkwintet.
 
 Dergelijke éénmalige uitgaven beïnvloeden natuurlijk ook in sterke mate het beeld van de populariteit van publicatietypes binnen de verschillende paleolithische subfases (Figuur 20). De pas genoemde thesissen en boekdelen zijn duidelijk herkenbaar in het relatief hoger aantal gepubliceerde pagina's in dit type voor het middenpaleolithicum, terwijl de boeken zoals gezegd voornamelijk het finaalpaleolithicum behandelen. Hetzelfde geldt voorlopig voor de rapporten.
 

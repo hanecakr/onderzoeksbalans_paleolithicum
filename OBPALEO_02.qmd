@@ -6,13 +6,12 @@ In dit hoofdstuk bespreken we per periode de verspreiding van de vindplaatsen en
 
 Deze analyse is in de eerste plaats uitgevoerd op basis van de CAI data, maar waar nodig en mogelijk bijgesteld op basis van literatuurgegevens. Zoals ook verder in de tekst wordt vermeld, zijn bepaalde ingaves in de CAI niet volledig correct en dient zich voor een aantal van hen een redactie aan. Voor de periode na 2007 zijn deze ingaves telkens systematisch nagekeken. Echter voor de oudere data bleek dit niet steeds haalbaar.
 
-## OVERZICHT VAN TOEVALSVONDSTEN, PROSPECTIEVONDSTEN,OPGRAVINGEN
-
+## OVERZICHT VAN TOEVALSVONDSTEN, PROSPECTIEVONDSTEN, OPGRAVINGEN
 ### Het vroegpaleolithicum 
 
 Vroegpaleolithische sites zijn in Vlaanderen schaars. Het oudste niveau te Kesselt-Op De Schans bevat herwerkt materiaal dat op basis van hun stratigrafische positie mogelijk aan het vroegpaleothicum kan worden toegeschreven,. Een screening van de vindplaatsen die opgenomen zijn in de CAI en een vroegpaleolithische datering vermelden, leert dat het zo goed als altijd gaat om materiaal dat door middel van veldkarteringen aan het licht gekomen is (fig. 1). Een aantal wordt op basis van de aanwezigheid van een vuistbijl in het vroegpaleolithicum geplaatst. Of het materiaal wordt op basis van eenvoudige, robuuste afslagen en fysische verwering een oude datering toegedicht. Dat is bijvoorbeeld het geval voor de zogenaamde clactoniaansites die zich in het oosten van Vlaanderen bevinden. Deze dateringen zijn echter onvoldoende onderbouwd. Tot slot wordt voor een beperkt aantal vindplaatsen een datering vanaf het vroegpaleolithicum opgegeven, maar werd deze nuance niet overgenomen in de CAI. Dat is bijvoorbeeld het geval voor de vindplaats Steenbakkerstraat te Gistel[^85] die zich op de grens van de kustpolders bevindt. Sinds de vorige versie van de onderzoeksbalans zijn naast deze vindplaats nog drie 'nieuwe' vindplaatsen door middel van veldkartering in de CAI ingevoerd. Twee ervan blijken in feite om oudere meldingen te gaan en werden onlangs geredigeerd. Enkel te Genk -- Kattevennen I gaat het om een nieuwe melding. Hier werd een vuurstenen artefact als mogelijke vroegpaleolithische pick[^86] is gedetermineerd[^87].
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image1.jpg)
 
 Verspreiding van de vindplaatsen met een vroegpaleolithische component per onderzoeksmethode (toestand eind 2019).
@@ -23,7 +22,7 @@ Verspreiding van de vindplaatsen met een vroegpaleolithische component per onder
 
 Ook voor het middenpaleolithicum geldt dat de meeste vindplaatsen bekend zijn door veldkartering. Het gaat dus eveneens om oppervlaktemateriaal. Voorbeelden zijn de grotere collecties die bijv. zijn ingezameld te Aalter-Hageland en Aalter-Nieuwendam[^88] of 's Gravenvoeren -- Snauwenberg[^89] en het resultaat zijn van een systematische zoektocht. Vaker nog betreft het een beperkt aantal vondsten, die geïsoleerd of samen met jonger materiaal zijn aangetroffen. Recente prospectievondsten (sinds 2007) zijn slechts in beperkte mate opgenomen in de CAI: het gaat met name om geïsoleerde of een beperkt aantal vondsten zoals te Bilzen - Wijngaardstraat I, Rotem -- Pex, Lubbeek -- Hazenput en Baarle-Hertog -- Baarlebrugse Beemden 1. Te Vollezele -- Hof te Put[^90] en Overboelare -- Grote Buizemont[^91] zijn iets omvangrijkere collecties ingezameld, waarbij de artefacten zowel op basis van typologische als fysische kenmerken gedateerd werden. Tot slot vermelden we nog oppervlaktevondsten te Kesselt -- Op de Schans en te Oekene -- Rennevoordestraat. Op deze locaties werd aansluitend een opgraving uitgevoerd (zie verder).
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image2.jpg)
 
 Verspreiding van de vindplaatsen met een middenpaleolithische component per onderzoeksmethode (toestand eind 2019).
@@ -46,7 +45,7 @@ Op basis van de CAI lijkt het erop dat er behoorlijk wat laatpaleolithische vind
 
 Spelverstraat werd aangetroffen tijdens een opgraving gericht op jongere periodes. De kleine verzameling wordt door de onderzoekers op basis van typotechnologische kenmerken eerder tot de federmessercultuur gerekend.[^117] Dat geldt eveneens voor de vindplaats Kasterlee -- Binnenpad waar een ensemble van 167 artefacten werd ingezameld. Op basis van technologische kenmerken werd deze algemeen in het laatpaleothicum gedateerd, maar waarschijnlijk eerder aansluitend aan de federmessercultuur. Omwille van de aaanwezigheid van vorstbreuken wordt een datering voor de Jonge Dryas als plausibel geacht.[^118] Nijlen- Varenheuvel 1 is de enige vindplaats waar gericht onderzoek werd verricht naar een mogelijke laatpaleolithische aanwezigheid. De vindplaats was eerder gekend aan de hand van oppervlaktevondsten maar werd in 2006 en 2007 verder gewaardeerd aan de hand van verkennende boringen, proefputten- en sleuven en een kleine opgraving. Alhoewel een deel van het materiaal in stratigrafische positie werd aangetroffen, bleek het zich evenwel in een secundaire positie te bevinden en deels vermengd met jonger materiaal. De datering blijft daarom onzeker. De aanwezigheid van vorstbreuken op een deel van het materiaal wijst wellicht wel op een datering voor de Jonge Dryas. Één papegaaibeksteker kan mogelijk op basis van typologische gronden tot het laatpaleolithicum toegewezen worden.^126^ Net als voor het middenpaleolithicum trekken we eenzelfde conclusie voor het laatpaleolithicum. Ondanks de algemene toename aan archeologisch (voor)onderzoek, zijn sinds de eerste versie van de onderzoeksbalans dus nauwelijks nieuwe vindplaatsen aan het licht gekomen.
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image3.jpg)
 
 Verspreiding van de vindplaatsen met een laatpaleolithische component per onderzoeksmethode (toestand eind 2019).
@@ -54,7 +53,7 @@ Verspreiding van de vindplaatsen met een laatpaleolithische component per onderz
 
 
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image4.jpg)
 
 Verspreiding van de vindplaatsen met een finaalpaleolithische component per onderzoeksmethode (toestand eind 2019).
@@ -95,7 +94,7 @@ subfase (vroeg/midden of laat/finaal paleolithicum), type project (prospectie, w
 
 Misschien is het nuttig om het paleolithisch onderzoek in Vlaanderen eerst wat te kaderen binnen het algemene steentijdonderzoek in Belgische context (Figuur 5). Het aantal terreincampagnes op sites met een paleolithische of neolithische component wordt sterk beïnvloed door het grottenonderzoek in het zuiden van het land. Bij de sites met een mesolithisch component domineert het onderzoek op Vlaamse bodem.
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image5.png)
 
 Terreincampagnes gerapporteerd in Notae Praehistoricae tot 2007 per steentijdperiode en per gewest in België.
@@ -104,7 +103,7 @@ Terreincampagnes gerapporteerd in Notae Praehistoricae tot 2007 per steentijdper
 
 Wanneer we dit onderzoek uitzetten over de laatste 40 jaar worden opmerkelijke trends zichtbaar (Figuur 6). Terwijl voor Vlaanderen de hoeveelheid rapportages van terreincampagnes min of meer stabiel bleef (20 tot 30 per jaarkwintet), kende het zuiden van het land aanvankelijk een geleidelijke groei, met een piek in de jaren 90, maar met een duidelijke terugval daarna. Voor specifiek het paleolithicum is deze trend zeer uitgesproken. Na 2004 maken de rapportages m.b.t. paleolithische terreincampagnes in het zuiden van het land een zeer grote terugval: van 13 naar 7 tussen 2005 en 2009. De laatste 10 jaar zijn er zelfs amper steentijdcampagnes gemeld in Wallonië/Brussel (n=3). Het is natuurlijk hier niet de plaats om de balans voor Wallonië op te maken, laat staan er een verklaring voor te geven.
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image6.png)
 
 Terreincampagnes gerapporteerd in *Notae Praehistoricae* of CAI per jaarkwintet en per steentijdperiode in de Belgische gewesten.
@@ -115,21 +114,21 @@ Wanneer enkel naar het steentijdonderzoek in Vlaanderen wordt gekeken, en we dit
 
 Malta-onderzoek (te merken in het jaarkwintet 2005-2009). Binnen de paleolithische subfases (Figuur 8) is er vanaf die periode een sterk overwicht van gerapporteerde sites met een finaalpaleolithische component, maar terreinwerk op midden- en laatpaleolithicum blijft doorheen de jaren vrij stabiel en deze zijn vooral het resultaat van academisch onderzoek. Omdat het hier om kleine aantallen gaat, zijn deze trends natuurlijk sterk afhankelijk van meerjarige campagnes op eenzelfde site in een bepaald jaarkwintet (Figuur 9). Voor een periode van ca. 25 jaar (1979-2005) zien we dat deze een groot percentage van het totaal uitmaken: hieronder vallen bijvoorbeeld de opgravingen in Rekem in het midden van de jaren 1980, in Veldwezelt rond de eeuwwisseling en in Lommel-Maatheide tussen 2003 en 2008. Sinds de opkomst van de Malta-archeologie is er een sterke stijging in de eenmalig gerapporteerde sites, die vanaf 2005-2009 dan weer een grote invloed op de grafiek uitoefenen. Uit de eerdere bespreking van de vindplaatsen en aard van het onderzoek per periode bleek echter dat het gros van deze vindplaatsen het resultaat is van 'toevallige' vondsten die tijdens onderzoek naar jongere periodes zijn aangetroffen, waarbij slechts bij een minderheid vervolgens de onderzoeksstrategie werd aangepast. De kwantitatieve toename impliceert dus niet meteen een toename aan gelijklopende toename aan (potentiële) inhoudelijke kennis.
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image7.png)
 
 Terreincampagnes in Vlaanderen per jaarkwintet per steentijdfase. Legende: VP/MP = vroeg- en middenpaleolithicum; LP = laatpaleolithicum; FP = finaalpaleolithicum; VM = vroegmesolithicum; MM = middenmesolithicum; LM = laatmesolithicum; VN = vroegneolithicum; MN = middenneolithicum; LN = laat- en finaalneolithicum.
 :::
 
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image8.png)
 
 Terreincampagnes in Vlaanderen per jaarkwintet per subfase binnen het paleolithicum. Legende: VP/MP = vroeg- en middenpaleolithicum; MP = middenpaleolithicum; LP = laatpaleolithicum; FP = finaalpaleolithicum.
 :::
 
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image9.png)
 
 De invloed van eenmalig en meerjarig gerapporteerde terreincampagnes op sites met een paleolithische component in Vlaanderen per jaarkwintet
@@ -141,7 +140,7 @@ De invloed van eenmalig en meerjarig gerapporteerde terreincampagnes op sites me
 Samen met de opkomst van de Malta-archeologie, zien we de laatste jaren een groeiende investering in prospectie- en waarderingscampagnes. Ook dit komt tot uiting in de rapporteringen in *Notae Praehistoricae* en de CAI (Figuur 10). De prospecties die tijdens de eerste helft van de jaren '80 gerapporteerd worden zijn vooral studies op grote collecties die door amateurarcheologen waren verzameld. Nadien zetten ook professionele archeologen verschillende prospectie- en waarderingscampagnes op, ondermeer in functie van inventarisatie- en beschermingsprojecten. Meestal gaat het daarbij om meerperiodeprojecten, waarbij het paleolithicum ook aan bod komt, maar niet uitsluitend. Het middenpaleolithicum in Vlaanderen is vooral bekend uit prospectie door vrijetijdsarcheologen, in het bijzonder in de Limburgse leemgroeves, bij opspuitingen in de Vlaamse Vallei of via veldprospectie, terwijl opgravingen en een meer systematische evaluatie grotendeels beperkt zijn tot het onderzoek van de KULeuven in het oosten van Vlaanderen.
 
 
-:::{.figure}
+:::{#fig-000}
 ![](![](./media/image9.png))
 
 Types van terreincampagnes op steentijdsites in Vlaanderen per jaarkwintet.
@@ -154,14 +153,14 @@ Als laatste oefening hebben we gekeken naar het type instelling die (hoofd)uitvo
 
 Voor het laat- en finaalpaleolithicum zit de expertise meer verspreid. Terwijl dit tot in de jaren 80 ook hoofdzakelijk door de KULeuven werd onderzocht (en in Meer ook nog door het Museum voor middenAfrika in Tervuren), is dit in de jaren 1990 vooral door het IAP (later VIOE) overgenomen, weliswaar vaak in samenwerking met KULeuven. Ook de UGent voerde regelmatig finaalpaleolithisch terreinwerk uit, in combinatie met onderzoek naar het mesolithicum, waarbij altijd veel aandacht gaat naar de studie van het paleomilieu. De institutionele ontwikkelingen komen nog sterker tot uiting wanneer we kijken naar de evolutie van het steentijdonderzoek in het algemeen over de laatste 40 jaar (Figuur 12). De aanvankelijke dominantie van KULeuven is over de jaren heen duidelijk afgenomen, omgekeerd zien we het terreinwerk vanuit UGent sinds midden jaren 1980 toenemen. Tussen de jaren 1990 en begin jaren 2000 neemt ook de Vlaamse overheid (AOE) in toenemende mate initiatieven tot terreinwerk op paleolithische sites. De terreincampagnes van zowel de onderwijs- als de overheidsinstellingen zijn echter (zeer) fel afgenomen na de opkomst van de privésector: het gaat tegenwoordig voornamelijk over enkele onderzoeksprojecten.
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image11.png)
 
 Gerapporteerde terreincampagnes op steentijdsites in Vlaanderen per steentijdfase en opgesplitst per type instelling die het project leidde of er de grootste inbreng in had. Legende: VP/MP = vroeg- en middenpaleolithicum; LP/FP = laat- en finaalpaleolithicum; VM = vroegmesolithicum; MM = middenmesolithicum; LM = laat- en finaalmesolithicum; VN = vroegneolithicum; MN = middenneolithicum; LN = laat- en finaalneolithicum.
 :::
 
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image12.png)
 
 Gerapporteerde terreincampagnes op steentijdsites in Vlaanderen per jaarkwintet en opgesplitst per instelling die het project leidde of er de grootste inbreng in had.

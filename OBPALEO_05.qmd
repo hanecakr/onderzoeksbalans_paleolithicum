@@ -10,7 +10,7 @@ We brengen het aantal bekende sites in kaart op basis van een kwantitatieve anal
 
 De verspreiding van de paleolithische sites over de archeoregio's werd bekeken op basis van de gegevens in de CAI (Figuur 29). Het paleolithicum blijkt daarbij de verhoudingen van het mesolithicum te volgen, met het grootste aantal sites in de Kempen (48 %), gevolgd door de (zand)leemstreek (32 %) en ten slotte de Vlaamse zandstreken (15 %). In de Maasvallei en de duin- en poldergebieden bleven de vondsten voorlopig beperkt in aantal (samen ca. 5 %).
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image30.png)
 
 Aantal registraties in de CAI van steentijdsites per periode in de verschillende archeoregio's.
@@ -21,14 +21,14 @@ Het spreekt voor zich dat de kritische opmerkingen over (een deel van) de sites 
 
 Hieruit blijkt (Figuur 30) dat deze plaatsen in alle archeoregio's en over het hele gewest verspreid zijn, waarbij de oostelijke helft wel iets dichter bezaaid lijkt te zijn dan de westelijke. Figuur 31 toont dat ca. 17,5 % van het totaal aantal sites met een paleolithische component niet specifieker dan het paleolithicum gedateerd kunnen worden. Het gaat hierbij hoofdzakelijk om toevalsvondsten zonder of met een beperkte context.
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image31.jpg)
 
 Verspreiding van sites in Vlaanderen waarin volgens de Centrale Archeologische Inventaris paleolithicum gekend is (toestand eind 2019).
 :::
 
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image32.jpg)
 
 Verspreiding van sites in Vlaanderen waar volgens de Centrale Archeologische Inventaris een algemene datering in het paleolithicum gekend is (toestand eind 2019).
@@ -39,7 +39,7 @@ Voor een deel kan de iets densere verspreiding in het oosten verklaard worden do
 
 Sinds de uitgave van de onderzoeksbalans in 2008 zijn enkele nieuwe sites met een vroegpaleolithische component aan het licht gekomen (Figuur 32). Deze bevinden zich terug grotendeels in de oostelijke (zand)leemzone van Vlaanderen. Echter ook bij de recentere vondstmeldingen blijkt de datering van de vondsten problematisch. Vaak gaat het om vuistbijlen ('Acheuleaan'), dewelke mogelijk ook in het middenpaleolithicum kunnen dateren, of om vondsten die gedateerd worden vanaf het vroegpaleolithicum maar deze datering niet in de CAI als dusdanig is overgenomen. Zoals we eerder vermelden is dit bijvoorbeeld het geval voor de vindplaats Gistel-Steenbakkerstraat die zich op de grens van het kustpoldergebied bevindt.
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image33.jpg)
 
 Verspreiding van sites in Vlaanderen waarin volgens de Centrale Archeologische Inventaris vroegpaleolithicum gekend is (toestand eind 2019).
@@ -48,7 +48,7 @@ Verspreiding van sites in Vlaanderen waarin volgens de Centrale Archeologische I
 
 Het aantal sites met middenpaleolithische componenten is sinds 2007 gestegen, en ook qua verspreiding is een ander beeld te zien (Figuur 33). De huidige stand van zaken wijst erop dat deze sites niet enkel vooral in de Kempen en in de (zand)leemstreek gerapporteerd zijn, maar ook in de Vlaamse zandstreken steeds meer voorkomen. In de poldergebieden zijn sites nog steeds niet geattesteerd.
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image34.jpg)
 
 Verspreiding van sites in Vlaanderen waarin volgens de Centrale Archeologische Inventaris middenpaleolithicum gekend is (toestand eind 2019).
@@ -57,7 +57,7 @@ Verspreiding van sites in Vlaanderen waarin volgens de Centrale Archeologische I
 
 De kaart met de verspreiding van de laatpaleolithische sites in Vlaanderen (Figuur 34) is wellicht de meest fictieve kaart en in de eerste plaats een artefact van de onderzoekshistoriek. Vele van de hier gekarteerde plaatsen vinden we trouwens ook terug op de andere kaarten. Onderzoek tussen 2007 en 2019 bracht meerdere vindplaatsen aan het licht, maar zoals we eerder aangaven gaat het voornamelijk om vindplaatsen met een algemene datering *vanaf* het laatpaleolithicum. Uitspraken over de verspreiding zijn nog steeds moeilijk. De nieuwe sites bevinden zich vaak in de buurt van reeds gekende vindplaatsen, maar deze verspreiding is waarschijnlijker nog steeds onderhevig aan onderzoekshiaten dan dat het een patroon in de activiteit uit het laatpaleolithicum aantoont.
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image35.jpg)
 
 Verspreiding van sites in Vlaanderen waarin volgens de Centrale Archeologische Inventaris laatpaleolithicum gekend is (toestand eind 2019).
@@ -68,14 +68,14 @@ Voor het finaalpaleolithicum biedt de verspreidingskaart (Figuur 35) zeker een b
 
 Een samenvatting per regio (Figuur 36) leert dat in de zandstreken van de Kempen en de Vlaamse provincies de finaalpaleolithische sites de middenpaleolithische domineren, terwijl in de (zand)leemstreek de middenpaleolithische sites met een nipte voorsprong het talrijkst zijn.
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image36.jpg)
 
 Verspreiding van sites in Vlaanderen waarin volgens de Centrale Archeologische Inventaris finaalpaleolithicum gekend is (toestand eind 2019).
 :::
 
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image37.png)
 
 Aantal registraties in de CAI van paleolithische sites per paleolithische fase in de verschillende archeoregio's.
@@ -124,7 +124,7 @@ Zeer opvallend hierbij is de dominantie aan finaalpaleolithisch terreinwerk: zow
 
 De stijging van het aantal terreincampagnes in Zandig Vlaanderen heeft te maken met verschillende recente opgravingen (Klein-Sinaai, Maldegem, Verrebroek, Doel, Gent), en bovendien was deze regio het toneel van heel wat prospectief onderzoek waarin ook het finaalpaleolithicum aan bod kwam, zoals het grootschalige onderzoek in de Moervaartdepressie en het Waasland. In de kustpolders en het duingebied langs de kust ontbreken paleolithische terreincampagnes helemaal. Terwijl het potentieel voor de Scheldepolders wel al langer onderkend wordt en dit potentieel ook in de preventieve archeologie wordt meegenomen (bijv. Beveren-LPW).
 
-:::{.figure}
+:::{#fig-000}
 ![]( ./media/image38.png)
 
 Figuur 37:Terreincampagnes (19792019) in de archeoregio's in Vlaanderen op sites met middenpaleolithische en laat-/finaalpaleolithische component, gerapporteerd in CAI.
@@ -133,7 +133,7 @@ Figuur 37:Terreincampagnes (19792019) in de archeoregio's in Vlaanderen op sites
 
 Wanneer we een onderscheid maken tussen eenmalig gerapporteerde en meerjarige terreincampagnes, dan zien we in de Kempen voornamelijk meerjarig onderzoek (op de finaalpaleolithische sites in Meer, Weelde, Zonhoven en Lommel) (Figuur 38). In de overige archeoregio's overheersen de eenmalig gerapporteerde sites. Toch is er in de (zand)leemstreek ook nog een groot deel meerjarig onderzoek: hier vallen bijvoorbeeld de verschillende middenpaleolithische sites te Veldwezelt en Kesselt onder.
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image39.png)
 
 Eenmalig gerapporteerde en meerjarige terreincampagnes (19792020) op sites met een paleolithische component in de verschillende archeoregio's in Vlaanderen, gerapporteerd in *Notae Praehistoricae* of CAI.
@@ -146,7 +146,7 @@ Wanneer we op het niveau van de archeoregio's focussen, dan is er een dominantie
 
 Een blik op de archeoregionale verdeling van de type instellingen die (hoofd)uitvoerder waren van de projecten die zijn gerapporteerd (Figuur 40) lijkt aan te geven dat de privésector in bijna alle archeoregio's nu een belangrijk deel van het terreinwerk uitvoert. Echter wanneer we dit terugkoppelen met de balans van het terreinonderzoek (zie hoger), blijkt dat dit terreinwerk voornamelijk betrekking heeft op vondsten die als losse vondst of per toeval aan het licht kwamen bij onderzoek naar jongere periodes. Binnen de klassieke instellingen zit de terreinexpertise van de Scheldepolders en Zandig Vlaanderen vooral bij UGent. Vanuit de Sigma-prospecties en --opgravingen was ook het agentschap Onroerend Erfgoed voor de Scheldepolders toonaangevend. In de (zand)leemstreek en de Maasvallei bezit de KULeuven een groot deel terreinexpertise: in de eerstgenoemde regio domineert de KULeuven zelfs nog. Ook intergemeentelijke en stedelijke diensten hebben in Zandig Vlaanderen en de (zand)leemstreek terreinervaring opgebouwd. De invloed van de campagnes door overheidsinstellingen in de archeoregio's is, met uitzondering van de Kempen, verkleind. In de Kempen wordt de terreinexpertise namelijk nog gedeeld tussen het agentschap Onroerend Erfgoed en KULeuven, en vroeger ook met het Koninklijk Museum voor midden-Afrika in Tervuren.
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image40.png)
 
 Overzicht per jaarkwintet en archeoregio van de terreincampagnes (1979-2020) op sites met een paleolithische component in Vlaanderen, gerapporteerd in *Notae Praehistoricae* of CAI.
@@ -154,7 +154,7 @@ Overzicht per jaarkwintet en archeoregio van de terreincampagnes (1979-2020) op 
 
 
 
-:::{.figure}
+:::{#fig-000}
 ![](./media/image41.png)
 
 Terreincampagnes (1979-2020) op sites met een paleolithische component in de verschillende archeoregio's in Vlaanderen, gerapporteerd in *Notae Praehistoricae* of CAI.
