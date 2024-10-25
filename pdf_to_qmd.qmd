@@ -130,7 +130,7 @@ convert_figs_to_qmd <- function(input_file, output_file) {
       
       # Replace with Quarto div structure for figures
       new_content <- c(new_content, 
-                       ":::{.figure}", 
+                       ":::{#fig-000}", 
                        sprintf("![](%s)", image_path))
       
       # Move to the next line to check for the figure caption (blockquote)
